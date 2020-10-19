@@ -1,7 +1,5 @@
 # Simple Mapstruct Use
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorinno&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
 This is a simple case use of mapstruct
 
 It jut need a h2 datasource and a jboss container.
