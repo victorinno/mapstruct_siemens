@@ -25,3 +25,6 @@ It jut need a h2 datasource and a jboss container.
 To access the swagger ui:
 http://localhost:8080/mapstruct_siemens/api/apiee/index.html
 
+Link to documentation:
+https://mapstruct.org/documentation/stable/reference/html/
+
